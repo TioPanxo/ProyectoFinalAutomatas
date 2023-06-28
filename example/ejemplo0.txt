@@ -1,0 +1,15 @@
+Viaje a "vina"
+ciudades igual 3
+desde vina viajar a valpo
+desde valpo volver a vina
+en vina comer en 5 lugares
+la ruta hacia valpo se divide en 5 caminos
+cene en vina
+conozca valpo
+conozca el pais chile
+si en valpo el clima sea mejor que en vina entonces puede seguir recorriendo si en valpo el clima sea mejor que en vina entonces puede seguir recorriendo valpo
+siga recorriendo vina cuando en valpo el clima sea peor que en vina
+mientras en vina el clima sea igual que en o sea distinto que en valpo siga recorriendo vina
+lugar recomendado mrburger
+viaje luego a peru
+FIN
